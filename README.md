@@ -16,7 +16,6 @@ The systems were designed using:
 ## Files
 - Project Report
 - Presentation Slides
-- CircuitVerse Links
 
 ## Course
 Digital Logic Design
