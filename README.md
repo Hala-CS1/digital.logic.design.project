@@ -1,6 +1,3 @@
-# digital.logic.design.project
-Group project for Digital Logic Design using truth tables, K-Maps, SOP minimization, and CircuitVerse simulations.
-
 # Digital Logic Design Project
 
 This is a group project for the Digital Logic Design course.
